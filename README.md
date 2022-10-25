@@ -2,6 +2,8 @@
 
 ## [challeng](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6)
 
+## [API](https://api.github.com/users/maximmorenko)
+
 ## настройка окружения:
 
 ### Dependencies
