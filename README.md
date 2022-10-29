@@ -1,4 +1,4 @@
-# [TypeScript курс. Проект GitHub user finder DEMO] (https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6)
+# [TypeScript курс. Проект GitHub user finder DEMO] (https://ts-react-project-dev-finder.vercel.app/)
 
 ## [challeng](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6)
 
@@ -14,4 +14,10 @@
 - [подробнее о работе с библиотеокй](https://www.youtube.com/watch?v=9ro7lKAAj2I)
 - "baseUrl": "./src" позволяет не писать полный относительный путь в момент импорта
 - позволяет обращаться к папке на уровне src напрямую, с любого уровня, и дальше уже добавляем нужный путь
+
+## Пубрикация проекта на vercel
+- create new project
+- import current repo
+- все настройки по умолчанию, жмем deploy
+- предварительно можно, для проверки, собрать локально (npm run build)
 
