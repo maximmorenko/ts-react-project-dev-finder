@@ -1,4 +1,4 @@
-# [TypeScript курс. Проект GitHub user finder DEMO] (https://ts-react-project-dev-finder.vercel.app/)
+# [Проект GitHub user finder DEMO](https://ts-react-project-dev-finder.vercel.app/)
 
 ## [challeng](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6)
 
@@ -20,4 +20,3 @@
 - import current repo
 - все настройки по умолчанию, жмем deploy
 - предварительно можно, для проверки, собрать локально (npm run build)
-
